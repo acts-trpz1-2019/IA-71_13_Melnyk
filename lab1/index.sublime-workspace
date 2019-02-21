@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"feast",
+				"features-row"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"bu",
+				"button-2"
+			],
+			[
+				"ac",
+				"accent"
+			],
+			[
+				"b",
+				"button-2"
+			],
+			[
+				"bt",
+				"btn-group-2"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"a",
+				"accent"
+			],
+			[
+				"block",
+				"block-content"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"te",
+				"text-primary"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"dive",
+				"block-divided"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ce",
+				"text-center"
+			],
+			[
+				"peo",
+				"people"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"text-",
+				"text-default"
+			],
+			[
+				"fe",
+				"features-row"
+			],
+			[
+				"icon",
+				"icon-big"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"sha",
+				"shape-margin\tproperty"
+			],
+			[
+				"righ",
+				"right-picture"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"shado",
+				"box-shadow"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"d",
+				"dotted\tborder"
+			],
+			[
+				"bar",
+				"background\tproperty"
+			],
+			[
+				"C",
+				"ColorClass"
+			],
+			[
+				"bor",
+				"border\tAttr"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"re",
+				"reference"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/hero-detail/hero-detail.component.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/heroes/heroes.component.html",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/hero-detail/hero-detail.component.html",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/app.module.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/app.component.html",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/mock-heroes.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/heroes/heroes.component.css",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/app.component.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/heroes/heroes.component.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/heroes/heroes.component.spec.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/hero.ts",
+		"/C/Melnyk_Kolia/tour-of-heroes/src/app/app.component.css",
+		"/C/Melnyk_Kolia/MyWebSite/src/app/app.module.ts",
+		"/C/Melnyk_Kolia/MyWebSite/src/main.ts",
+		"/C/Melnyk_Kolia/MyWebSite/src/styles.css",
+		"/C/Melnyk_Kolia/MyBlog/src/app/app.component.ts",
+		"/C/Melnyk_Kolia/MyBlog/src/styles.css",
+		"/C/Melnyk_Kolia/MyBlog/src/app/app.module.ts",
+		"/C/Melnyk_Kolia/MyBlog/src/app/page/page.component.html",
+		"/C/Melnyk_Kolia/myBlog/myBlogSite/src/app/app.module.ts",
+		"/C/Melnyk_Kolia/myBlog/myBlogSite/src/styles.css",
+		"/C/Melnyk_Kolia/response site/js/slider.js",
+		"/C/Melnyk_Kolia/response site/styles/slider.css",
+		"/C/Melnyk_Kolia/response site/styles/style.css",
+		"/C/Users/Коля/Desktop/FrontStuff/tamplates/Slider/styles/style.css",
+		"/C/Work/First task/index.html",
+		"/C/Melnyk_Kolia/server/index.js",
+		"/C/Melnyk_Kolia/https/ex3/ex3.js",
+		"/C/Melnyk_Kolia/https/ex2.js",
+		"/C/Melnyk_Kolia/https/ex1.js",
+		"/C/Melnyk_Kolia/https/https.js",
+		"/C/Users/Коля/Desktop/Music Quiz/music-quiz.js",
+		"/C/Melnyk_Kolia/privetyasite/index.html",
+		"/C/Users/Коля/Desktop/index.html",
+		"/C/Melnyk_Kolia/privetyasite/style.css",
+		"/C/Work/second task/index.html",
+		"/C/Work/second task/css/style.css",
+		"/C/Work/second task/js/script.js",
+		"/C/Work/second task/js/countdown-timer.js",
+		"/C/Work/second task/js/cutdown-timer.js",
+		"/C/Work/First task/css/style.css",
+		"/C/Work/without bootstrap/index.html",
+		"/K/Work/First task/index.html",
+		"/K/Work/First task/css/style.css",
+		"/K/Work/index.html",
+		"/K/Work/css/style.css",
+		"/C/Melnyk_Kolia/practise/Lesson 4/lesson.html",
+		"/K/Work/page.html",
+		"/C/Melnyk_Kolia/practise/Lesson 4/styles.css",
+		"/C/Users/Коля/Downloads/Home V2 - Marshall - Ultimate Coming Soon Template.html",
+		"/C/Melnyk_Kolia/Book library/index.html",
+		"/C/Melnyk_Kolia/practise/Lesson 3/new.html",
+		"/C/Melnyk_Kolia/practise/Lesson 3/styles.css",
+		"/C/Melnyk_Kolia/practise/Lesson 2/index.html",
+		"/C/Melnyk_Kolia/Book library/Mayakovski.html",
+		"/C/Melnyk_Kolia/Book library/Books/books.html",
+		"/C/Melnyk_Kolia/practise/Lesson 3/l3.html",
+		"/C/Melnyk_Kolia/Book library/Books/Book 2/B2P1.html",
+		"/C/Melnyk_Kolia/Book library/Books/Book 2/B2P2.html",
+		"/C/Melnyk_Kolia/Book library/Books/Book 2/B2P3.html",
+		"/C/Melnyk_Kolia/Book library/Book 1/B1P1.html",
+		"/C/Melnyk_Kolia/Book library/Book 1/B1P2.html",
+		"/C/Melnyk_Kolia/Book library/Book 1/B1P3.html",
+		"/C/Melnyk_Kolia/Lesson 2/index.html",
+		"/C/Melnyk_Kolia/Lesson 1/Book library/Main page.html",
+		"/C/Melnyk_Kolia/Lesson 2/Photos/page1.html",
+		"/C/Data for Kolya/course/Lesson 1/Book library/Main page.html",
+		"/C/Data for Kolya/course/Book library/Main page.html",
+		"/C/Data for Kolya/course/Book library/Book 5/B5P1.html",
+		"/C/Data for Kolya/course/Book library/Book 5/B5P2.html",
+		"/C/Data for Kolya/course/Book library/Book 5/B5P3.html",
+		"/C/Data for Kolya/course/Book library/Book 3/B3P1.html",
+		"/C/Data for Kolya/course/Book library/Book 3/B3P2.html",
+		"/C/Data for Kolya/course/Book library/Book 3/B3P3.html",
+		"/C/Data for Kolya/course/Book library/Book 3/B3P4.html",
+		"/C/Data for Kolya/course/Book library/Book 3/B3P5.html",
+		"/C/Data for Kolya/course/Book library/Book 4/B4P1.html",
+		"/C/Data for Kolya/course/Book library/Book 4/B4P2.html",
+		"/C/Data for Kolya/course/Book library/Book 4/B4P3.html",
+		"/C/Data for Kolya/course/Book library/Book 1/B1P1.html",
+		"/C/Data for Kolya/course/Book library/Book 1/B1P2.html",
+		"/C/Data for Kolya/course/Book library/Book 1/B1P3.html",
+		"/C/Data for Kolya/course/Book library/Book 2/B2P3.html",
+		"/C/Data for Kolya/course/Book library/Book 2/B2P2.html",
+		"/C/Data for Kolya/course/Book library/Book 2/B2P1.html",
+		"/C/Data for Kolya/course/Book library/Book 1/B1P2",
+		"/C/Data for Kolya/course/folder1/main.html",
+		"/C/Data for Kolya/course/Book library/Main page",
+		"/C/Users/Коля/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-build",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/HTML.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Melnyk_Kolia\\practise\\Lesson 4\\lesson.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

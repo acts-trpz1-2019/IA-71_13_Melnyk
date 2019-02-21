@@ -1,0 +1,48 @@
+body{
+	background-color: #ECE8E7;
+	display: grid;
+	grid-template-columns: 48vw 48vw;
+	margin-left: 1,5vw;
+	width: 96vw;
+}
+
+.intro{
+	height: 20%;
+	display: flex;
+	flex-direction: column;
+	color: #848283;
+	font-family: 'Times New Roman', Times, serif; 
+    font-style: italic; 
+}
+
+.intro h2{
+	text-align: right;
+    font-weight: 600;
+    font-size: 1em;
+    margin: 0;
+    width: 100%;
+}
+
+.intro h1{
+    font-weight: 500;
+    font-size: 4em;
+    margin: 0;
+}
+
+.intro hr{ /* Цвет линии для остальных браузеров */
+    background-color:  #848283; /* Цвет линии для браузера Firefox и Opera */
+    min-height: 4px; /* Толщина линии */
+    width: 100%;
+    border: 0;
+}
+
+.mercedes{
+	height: 50%;
+	width: 100%;
+	margin-top: 5%;
+}
+
+#photo{
+	width: 100%; 
+	height: 100%;
+}
