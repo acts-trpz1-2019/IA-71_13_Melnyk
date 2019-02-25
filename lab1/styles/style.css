@@ -65,30 +65,83 @@ ul {
   padding: 0;
 }
 a {
-  background-position: 0 50%;
-  background-repeat: no-repeat;
-  color: #0087cc;
-  padding-left: 22px;
+  color: #848283;
   text-decoration: none;
+  padding-left: 22px;
+  /*padding-top: 10px;*/
 }
 a:hover {
   color: #ff7b29;
 }
-a[href$=".facebook"] {
-  background-image: url("../assets/images/facebook.png");
-  width: auto !important;
-  
-  height: 20px;
+
+li{
+	height: 30px;
 }
-a[href$=".linkedin"] {
-  background-image: url("../assets/images/linkedin.png");
+
+.link-set li div{
+	display: flex; flex-direction: row
 }
-a[href$=".instagram"] {
-  background-image: url("../assets/images/instagram.png");
+
+.facebook{
+	background-image: url(../assets/images/facebook.png);
 }
-a[href$=".twitter"] {
-  background-image: url("../assets/images/twitter.png");
+
+.linkedin{
+	background-image: url(../assets/images/linkedin.png);
 }
-a[href$=".youtube"] {
-  background-image: url("../assets/images/youtube.png");
+
+.instagram{
+	background-image: url(../assets/images/instagram.png);
+}
+
+.twitter{
+	background-image: url(../assets/images/twitter.png);
+}
+
+.youtube{
+	background-image: url(../assets/images/youtube.png);
+}
+
+.icon{
+	height: 20px;
+	width: 20px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.laureus-icon{
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	height: 50px;
+	background-image: url(../assets/images/laureus-logo.png);
+}
+
+p{
+	color: #848283;
+	font-family: 'Times New Roman', Times, serif; 
+}
+
+div.recycle-label{
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-image: url(../assets/images/fsc.png);
+	margin-left: 10%;
+}
+
+#magazine-content{
+	padding-top: 5%;
+	padding-bottom: 5%; 
+}
+
+#magazine-description{
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	padding-top: 5%;
+	padding-bottom: 5%; 
+}
+
+footer{
+	display: grid;
+	grid-template-columns: 2fr 2fr;
+	width: 96vw;
 }
