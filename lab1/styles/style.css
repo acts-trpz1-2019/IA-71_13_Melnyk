@@ -145,3 +145,37 @@ footer{
 	grid-template-columns: 2fr 2fr;
 	width: 96vw;
 }
+
+.wrapper>div{
+	height: 45%;
+}
+
+.wrapper>div ~ div{
+	height: 45%;
+}
+
+#magazine-content > p{
+	font-size: 0.9em;
+}
+
+#magazine-description div > p{
+	font-size: 0.52em;
+	font-weight: 100;
+}
+
+.mercedes-logo{
+	width: 85px; 
+	height: 85px;
+}
+
+.mercedes-benz{
+	width: 118px; 
+	height: 28px; 
+	margin-top: 40%;
+}
+
+footer div a{
+	text-align: right; 
+	display: block; 
+	padding: 0 5% 0 0;
+}
